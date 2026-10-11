@@ -1,0 +1,6 @@
+sensor,expected,received,missing,completeness_percent,gap_count,largest_gap_seconds
+distance,1801,1756,45,97.5,2,1560.0
+humidity,1801,1756,45,97.5,2,1560.0
+light,1801,1756,45,97.5,2,1560.0
+potentiometer,1801,1756,45,97.5,2,1560.0
+temperature,1801,1756,45,97.5,2,1560.0
